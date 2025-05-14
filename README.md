@@ -1,2 +1,3 @@
 # OpenCV_Defect-Detection
-Defect Detection
+
+Specimen defect detection using the Canny edge detection method
